@@ -1,6 +1,6 @@
 # Plot Inspector
 
-A matplotlib tool to easily show a 2D nparray on matplotlib, and inspect closest elements from click
+A matplotlib tool to easily show 2D coordianates on matplotlib, and inspect closest coordinate from click 
 
 ## Requirements
 - Python 2 or 3
