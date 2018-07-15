@@ -60,3 +60,4 @@ Display options are the propagated to pyplot
 ## WIP
 - Callback from user
 - Multiples Input format : for now it's only X series and Y series, but a [(x,y),(x,y),(x,y)] could be handy
+- 
